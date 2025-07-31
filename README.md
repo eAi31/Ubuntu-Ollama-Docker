@@ -87,3 +87,6 @@ Refer to the [Ollama API documentation](https://github.com/ollama/ollama/blob/ma
 - The `custom/` folder works similarly, but builds the image from the included Dockerfile.
 - Data is stored in the `data` folder inside each alternative.
 - For more commands and options, see the [Ollama documentation](https://github.com/ollama/ollama) and [model library](https://ollama.com/library).
+
+##Source
+Best thanks for @GustavoDC
